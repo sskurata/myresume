@@ -1,0 +1,43 @@
+#head  {
+  color: pink;
+  background: #008080;
+  font-size: 230%;
+}
+
+#image  {
+  border-style: double;
+}
+
+h1 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 15vh;
+     margin-bottom: 0%;
+     margin-top: 0%;
+   }
+
+div.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5vh;
+  background-color: #f1f1f1;
+  margin-bottom: 2%;
+}
+
+#space  {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+h2 {
+  font-weight: lighter;
+  font-style: italic;
+  margin-bottom: 0%;
+  margin-top:2%;
+}
+
+body {
+     font-family: calibri;
+   }
